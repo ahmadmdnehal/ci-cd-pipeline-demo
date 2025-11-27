@@ -6,5 +6,9 @@ public class Hello {
             System.out.print(str+" ");
         }
         System.out.println();
+        
+
+
+        System.out.println("-----------------------------------");
     }
 }
