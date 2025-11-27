@@ -9,5 +9,9 @@ public class Test {
         System.out.println(new DataFormatException());
         Date Date = new Date();
         System.out.println(Date.getTime());
+
+        System.out.println("----------------");
+
+        System.out.println("Hello, How are you? "+" I'm fine.");
     }
 }
